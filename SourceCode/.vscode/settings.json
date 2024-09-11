@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "*.html": "html",
+        "custom_functions.h": "c"
+    }
+}
